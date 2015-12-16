@@ -1,0 +1,28 @@
+name: Djeli Bouba
+favicon: null
+layout_spectrum: 0.8756673517636955
+typography_spectrum: 0.0633277662564069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.36315641505643725
+  lightness: 0.7465361170470715
+  saturation: 0.2794115203432739
+  rhythmicContrast: 0.7517141832504421
+purpose: []
